@@ -1,0 +1,16 @@
+python-telegram-bot==20.3
+openai==0.28
+faiss-cpu
+numpy
+python-dotenv
+nest_asyncio
+python-docx
+
+
+
+
+# cd C:\russia_base_bot
+# python -m venv venv 
+# .\venv\Scripts\Activate
+# pip install -r requirements.txt
+# python bot.py
